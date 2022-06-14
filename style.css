@@ -1,0 +1,26 @@
+<style>
+#back1 .container h1, h2 {
+    color : pink ;
+}
+
+p {
+  color: green;
+}
+ul {
+  border: 2px solid red;
+}
+ol {
+  border: 2px solid red;
+}
+
+ol, ul {
+  padding: 5px 40px;
+  border-radius: 12px;
+}
+ strong {
+  color: blue;
+}
+em {
+  color: gray;
+}
+</style>
